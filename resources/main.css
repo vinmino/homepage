@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Manuale');
+
+* { transition: all 2s }
+
+.navbar-brand  {
+  color: black !important;
+}
+.nav-link {
+  color: #009116 !important;
+}
+.nav-link:hover{
+  transition: 1s all;
+  box-shadow: inset 0px 0px 7px 0px black;
+  border-radius: 10px;
+}
+nav {
+  box-shadow: 0px 0px 11px 1px black;
+}
+body {
+  font-family: Manuale;
+}
+
+div.jumbotron {
+  background-color: #02426D;
+  margin-bottom: 0px;
+}
+.sky {
+  background-color: #74C8FF;
+  box-shadow: 0 0 20px 5px #74C8FF;
+}
+.forrest {
+  background-color: #076D02;
+  color: #35E32C;
+}
+
+.sun {
+  background-color: #DCDC00;
+  color: #D93E00;
+}
